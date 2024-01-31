@@ -1,4 +1,6 @@
-![Tic Tac Toe](https://github.com/DanialSoleimany/TicTacToe_RL_Q-Learning/raw/main/tictactoe.png)
+<div style="text-align:center;">
+  <img src="https://github.com/DanialSoleimany/TicTacToe_RL_Q-Learning/raw/main/tictactoe.png" alt="Tic Tac Toe">
+</div>
 
 # Reinforcement Learning for Tic-Tac-Toe using Q-Learning Algorithm
 
