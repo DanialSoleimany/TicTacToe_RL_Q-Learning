@@ -43,5 +43,3 @@ This project implements a Tic-Tac-Toe game where AI players are trained to play 
 3. **Playing Against AI**:
    - Use the `play()` function in `main.py` to play against the trained AI player.
    - You can interactively make moves against the AI and see the outcome of each game.
-
-## Run the program (main.py)
