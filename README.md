@@ -1,4 +1,4 @@
-![tictactoe]()
+![Tic Tac Toe](https://github.com/DanialSoleimany/TicTacToe_RL_Q-Learning/raw/main/tictactoe.png)
 
 # Reinforcement Learning for Tic-Tac-Toe using Q-Learning Algorithm
 
