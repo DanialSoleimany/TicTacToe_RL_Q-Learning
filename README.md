@@ -1,3 +1,5 @@
+![tictactoe]()
+
 # Reinforcement Learning for Tic-Tac-Toe using Q-Learning Algorithm
 
 ## Overview
